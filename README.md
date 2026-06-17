@@ -1,6 +1,6 @@
 ## Anotador de datasets automático - MAC
 <p>
-Este repositório itera o <a href="">Classificador Massivo de Atributos definido</a> sobre qualquer dataset, com qualquer estrutura de pastas.<br>
+Este repositório itera o <a href="https://github.com/carlos-dani-dev/classificador-massivo-de-atributos">Classificador Massivo de Atributos</a> sobre qualquer dataset, com qualquer estrutura de pastas.<br>
 Este modelo <i>.keras</i> rotula de acordo com 2 atributos, um atributo binário, o <b><i>male_or_not_male</i></b>, e um atributo
 multiclasse (6 classes), o <b><i>fitz_type_scale</i></b>.
 </p>
