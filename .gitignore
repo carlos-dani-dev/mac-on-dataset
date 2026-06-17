@@ -1,5 +1,6 @@
 .env
-/dataset
+dataset/*
+!dataset/README.md
 verifier.ipynb
 embeddings/embeddings.pkl
 dataset_annotation/dataset_annotated.pkl
