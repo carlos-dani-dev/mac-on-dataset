@@ -1,0 +1,9 @@
+.env
+/dataset
+verifier.ipynb
+embeddings/embeddings.pkl
+dataset_annotation/dataset_annotated.pkl
+embeddings/embeddings.pkl
+dataset_annotation/dataset_annotated.pkl
+embeddings/embeddings.pkl
+dataset_annotation/dataset_annotated.pkl
