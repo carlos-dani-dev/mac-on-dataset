@@ -6,7 +6,10 @@ multiclasse (6 classes), o <b><i>fitz_type_scale</i></b>.
 </p>
 
 ### Requisitos para execução do código fonte
-
+<p>
+Para baixar os frameworks usados, cada um em sua versão exata, rode no terminal:
+  <b><i>pip install -r requirements.txt</i></b>
+</p>
 
 ### Pipeline de execução do código fonte
 <p>
