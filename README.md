@@ -5,12 +5,18 @@ Este modelo <i>.keras</i> rotula de acordo com 2 atributos, um atributo binário
 multiclasse (6 classes), o <b><i>fitz_type_scale</i></b>.
 </p>
 
+<p><br></p>
+
+---
 ### Requisitos para execução do código fonte
 <p>
-Para baixar os frameworks usados, cada um em sua versão exata, rode no terminal:
+Para baixar os frameworks usados, cada um em sua versão exata, rode no terminal:<br>
   <b><i>pip install -r requirements.txt</i></b>
 </p>
 
+<p><br></p>
+
+---
 ### Pipeline de execução do código fonte
 <p>
 1) Primeiro vetorize o banco de imagens, rodando o script <b><i>loader.py</i></b>, escrevendo no terminal:<br>
