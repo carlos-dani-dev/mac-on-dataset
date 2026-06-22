@@ -276,15 +276,6 @@ def prediction_function(df, model, atributos, m=100):
             yield list_dict
 
 
-def prep_dataset(dataset_path):
-    extensoes = {".jpg", ".jpeg", ".png", ".bmp", ".gif", ".webp", ".tiff"}
-
-    list_filepaths = pd.DataFrame([
-        str(arquivo)
-        for arquivo in Path(dataset_path).rglob("*")
-        if arquivo.is_file() and arquivo.suffix.lower() in extensoes
-    ])
-
 
 if __name__ == "__main__":
 
