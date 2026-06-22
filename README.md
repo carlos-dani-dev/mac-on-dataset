@@ -19,10 +19,13 @@ Para baixar os frameworks usados, cada um em sua versão exata, rode no terminal
 ---
 ### Pipeline de execução do código fonte
 <p>
-1) Primeiro vetorize o banco de imagens, rodando o script <b><i>loader.py</i></b>, escrevendo no terminal:<br>
+1) Copie o banco de imagens completo para a pasta 'dataset', mantendo sua estrutura de pastas original
+</p>
+<p>
+2) Vetorize o banco de imagens, rodando o script <b><i>loader.py</i></b>, escrevendo no terminal:<br>
   <b><i>python loader.py</i></b>
 </p>
 <p>
-2) Rotule o banco de imagens vetorizado, rodando o script <b><i>annotator.py</i></b>, escrevendo no terminal:<br>
+3) Rotule o banco de imagens vetorizado, rodando o script <b><i>annotator.py</i></b>, escrevendo no terminal:<br>
   <b><i>python annotator.py</i></b>
 </p>
